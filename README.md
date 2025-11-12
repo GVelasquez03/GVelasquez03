@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="letf">Hola👋 Mi nombre es Gilberto ✨ </h1> 
 
-<!--
-**GVelasquez03/GVelasquez03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+🎓 FUTURO LIC. EN INFORMÁTICA ✅
 
-Here are some ideas to get you started:
+💻Desarrollador de software, especializado en el backend y en crear apps innovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Apasionado por la tecnología en todas sus formas, especialmente enfocado en el desarrollo backend.
+Me motiva crear soluciones innovadoras🌟 y relevantes que conecten con un público objetivo 👨👦👩, combinando funcionalidad,
+propósito y visión estratégica. Siempre en busca de proyectos que generen impacto real y valor sostenible.
+    
+📫 Contacto: **gilberto123rafael@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+
+
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,php,py,css,html,angular,bootstrap,js,ts,nodejs,npm,mysql,sqlite,postgres,firebase,git,github,postman,vscode,idea,arduino&perline=10" />
+  </a>
+</p>
+<br>
+
+<!--------------->
+<div id="proyectos">
+<h2 >Mis proyectos💎</h2>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://youtu.be/rISmdhlhOPM" title="SMS Gateway">
+        <img src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" width="100%" alt="SMS Gateway" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://youtu.be/fiUkA2OZQjs" title="Notificación Android">
+        <img src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" width="100%" alt="Notificación Android" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://youtu.be/py31Y1Ku4Es" title="ChatGPT App">
+        <img src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp" width="100%" alt="ChatGPT App" />
+      </a>
+      <br />
+    </td>
+  </tr>
+  
+</table>
+  </div>
+
