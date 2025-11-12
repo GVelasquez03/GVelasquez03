@@ -20,7 +20,7 @@ propósito y visión estratégica. Siempre en busca de proyectos que generen imp
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,php,py,css,html,angular,bootstrap,js,ts,nodejs,npm,mysql,sqlite,postgres,firebase,git,github,postman,vscode,idea,arduino&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,php,py,css,html,angular,bootstrap,js,ts,nodejs,npm,mysql,sqlite,postgres,firebase,git,github,postman,vscode,idea,arduino&perline=12" />
   </a>
 </p>
 <br>
