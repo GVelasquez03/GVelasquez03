@@ -40,7 +40,7 @@ propósito y visión estratégica. Siempre en busca de proyectos que generen imp
         <img src="https://raw.githubusercontent.com/GVelasquez03/AleskyGym/Frontend/Frontend%20Rosa/Frontend/Rosa-GestionClases-Frontend/src/app/assets/Alesky.png" height="100%"  width="100%" alt="AleskyGym" />
       </a>
     </td>
-    <td align="center" width="30%">
+      <td align="center" width="30%">
       <a href="https://github.com/GVelasquez03/AleskyGym/" title="Gymnasio AleskyGym">
         <img src="https://raw.githubusercontent.com/GVelasquez03/AleskyGym/Frontend/Frontend%20Rosa/Frontend/Rosa-GestionClases-Frontend/src/app/assets/Aleskyy.png" height="100%"  width="100%" alt="AleskyGym" />
       </a>
@@ -55,19 +55,24 @@ propósito y visión estratégica. Siempre en busca de proyectos que generen imp
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/GVelasquez03/MetodoSimplex" title="Programacion Lineal">
         <img src="https://raw.githubusercontent.com/GVelasquez03/MetodoSimplex/main/assets/ProgramacionLineal.png" width="100%" alt="Metodo Simplex" />
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/GVelasquez03/SemiSumador" title="Semi-sumador Binario">
         <img src="https://raw.githubusercontent.com/GVelasquez03/SemiSumador/main/src/assets/SumadorBinario.png"  width="100%" alt="SemiSumador Binario" />
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://github.com/GVelasquez03/AleskyGym/" title="Gymnasio AleskyGym">
         <img src="https://raw.githubusercontent.com/GVelasquez03/AleskyGym/Frontend/Frontend%20Rosa/Frontend/Rosa-GestionClases-Frontend/src/app/assets/Aleskyy.png"  width="100%" alt="AleskyGym" />
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/GVelasquez03/SemiSumador" title="Semi-sumador Binario">
+        <img src="https://raw.githubusercontent.com/GVelasquez03/SemiSumador/main/src/assets/"  width="100%" alt="SemiSumador Binario" />
       </a>
     </td>
   </tr>
