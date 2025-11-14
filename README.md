@@ -27,25 +27,24 @@ propósito y visión estratégica. Siempre en busca de proyectos que generen imp
 
 <!--------------->
 <div id="proyectos">
-<h2 >Mis proyectos💎</h2>
+<h2 >💎Proyecto Destacado Gestion de Clases Gimnasio</h2>
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="35%">
       <a href="https://github.com/GVelasquez03/AleskyGym/" title="Gymnasio AleskyGym">
-        <img src="https://raw.githubusercontent.com/GVelasquez03/AleskyGym/Frontend/Frontend%20Rosa/Frontend/Rosa-GestionClases-Frontend/src/app/assets/AleskyGym.png" width="100%" alt="AleskyGym" />
+        <img src="https://raw.githubusercontent.com/GVelasquez03/AleskyGym/Frontend/Frontend%20Rosa/Frontend/Rosa-GestionClases-Frontend/src/app/assets/AleskyGym.png" height="100%"  width="100%" alt="AleskyGym" />
       </a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://youtu.be/fiUkA2OZQjs" title="Notificación Android">
-        <img src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" width="100%" alt="Notificación Android" />
+    <td align="center" width="35%">
+      <a href="https://github.com/GVelasquez03/AleskyGym/" title="Gymnasio AleskyGym">
+        <img src="https://raw.githubusercontent.com/GVelasquez03/AleskyGym/Frontend/Frontend%20Rosa/Frontend/Rosa-GestionClases-Frontend/src/app/assets/Alesky.png" height="100%"  width="100%" alt="AleskyGym" />
       </a>
     </td>
-    <td align="center" width="33%">
-      <a href="https://youtu.be/py31Y1Ku4Es" title="ChatGPT App">
-        <img src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp" width="100%" alt="ChatGPT App" />
+    <td align="center" width="30%">
+      <a href="https://github.com/GVelasquez03/AleskyGym/" title="Gymnasio AleskyGym">
+        <img src="https://raw.githubusercontent.com/GVelasquez03/AleskyGym/Frontend/Frontend%20Rosa/Frontend/Rosa-GestionClases-Frontend/src/app/assets/Aleskyy.png" height="100%"  width="100%" alt="AleskyGym" />
       </a>
-      <br />
     </td>
   </tr>
   
