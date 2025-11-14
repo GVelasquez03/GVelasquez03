@@ -32,8 +32,8 @@ propósito y visión estratégica. Siempre en busca de proyectos que generen imp
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://youtu.be/rISmdhlhOPM" title="SMS Gateway">
-        <img src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" width="100%" alt="SMS Gateway" />
+      <a href="https://youtu.be/rISmdhlhOPM" title="Gymnasio AleskyGym">
+        <img src="https://raw.githubusercontent.com/GVelasquez03/AleskyGym/tree/Frontend/Frontend%20Rosa/Frontend/Rosa-GestionClases-Frontend/src/app/assets/Alesky.png" width="100%" alt="AleskyGym" />
       </a>
     </td>
     <td align="center" width="33%">
