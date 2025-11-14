@@ -1,15 +1,14 @@
-<h1 align="letf">Hola👋 Mi nombre es Gilberto ✨ </h1> 
+<h1 align="letf">Hola👋 Soy Gilberto ✨ </h1> 
 
 <p align="left">
-🎓 FUTURO LIC. EN INFORMÁTICA ✅
-
+<h3>FUTURO LIC. EN INFORMÁTICA 🎓</h3>
+<h4>
 💻Desarrollador de software, especializado en el backend y en crear apps innovadoras.
 
 🔥 Apasionado por la tecnología en todas sus formas, especialmente enfocado en el desarrollo backend.
-Me motiva crear soluciones innovadoras🌟 y relevantes que conecten con un público objetivo 👨👦👩, combinando funcionalidad,
-propósito y visión estratégica. Siempre en busca de proyectos que generen impacto real y valor sostenible.
-    
-📫 Contacto: **gilberto123rafael@gmail.com**
+Me motiva crear soluciones innovadoras🌟 y relevantes que conecten con un público objetivo 👨, combinando funcionalidad,
+propósito y visión estratégica. Siempre en busca de proyectos que generen impacto real y valor sostenible.</h4>
+
 <!--Intro end-->
   </p>
 <br>
@@ -27,7 +26,7 @@ propósito y visión estratégica. Siempre en busca de proyectos que generen imp
 
 <!--------------->
 <div id="proyectos">
-<h2 >💎Proyecto Destacado Gestion de Clases Gimnasio</h2>
+<h2 >💎Sistema Gestion de Clases Gimnasio</h2>
 
 <table>
   <tr>
@@ -50,4 +49,6 @@ propósito y visión estratégica. Siempre en busca de proyectos que generen imp
   
 </table>
   </div>
+
+  📫 Contacto: **gilberto123rafael@gmail.com**
 
