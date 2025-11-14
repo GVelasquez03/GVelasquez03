@@ -5,9 +5,9 @@
 <h4>
 💻Desarrollador de software, especializado en el backend y en crear apps innovadoras.
 
-🔥 Apasionado por la tecnología en todas sus formas,enfocado en el desarrollo backend.
-Me motiva crear soluciones innovadoras y relevantes 🌟 que conecten con un público objetivo, combinando funcionalidad,
-propósito y visión estratégica. Siempre en busca de proyectos que generen impacto real y valor sostenible.</h4>
+🔥 Apasionado por la tecnología en todas sus formas,enfocado en el desarrollo backend.<br>
+Me motiva crear soluciones innovadoras y relevantes 🌟 <br>que conecten con un público objetivo, combinando funcionalidad,
+propósito y visión estratégica.<br>Siempre en busca de proyectos que generen impacto real y valor sostenible.</h4>
 
 <!--Intro end-->
   </p>
