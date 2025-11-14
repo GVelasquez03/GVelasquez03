@@ -51,28 +51,23 @@ propósito y visión estratégica.<br>Siempre en busca de proyectos que generen 
   </div>
 
   <div id="Nuevos Proyectos">
-<h2 >Aplicaciones 📊</h2>
+<h2 >Sistema de control Academia de Baile 📊</h2>
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/GVelasquez03/MetodoSimplex" title="Programacion Lineal">
-        <img src="https://raw.githubusercontent.com/GVelasquez03/MetodoSimplex/main/assets/ProgramacionLineal.png" width="100%" alt="Metodo Simplex" />
+     <td align="center" width="34%">
+      <a href="https://github.com/GVelasquez03/Academia-de-Baile/" title="Academia de Baile">
+        <img src="https://raw.githubusercontent.com/GVelasquez03/Academia-de-Baile/main/Academia_Baile/src/assets/login.png"  width="100%" alt="Academia de Baile" />
       </a>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/GVelasquez03/SemiSumador" title="Semi-sumador Binario">
-        <img src="https://raw.githubusercontent.com/GVelasquez03/SemiSumador/main/src/assets/SumadorBinario.png"  width="100%" alt="SemiSumador Binario" />
+    <td align="center" width="33%">
+      <a href="https://github.com/GVelasquez03/Academia-de-Baile/" title="Academia de Baile">
+        <img src="https://raw.githubusercontent.com/GVelasquez03/Academia-de-Baile/main/Academia_Baile/src/assets/TablaPosicion.png"  width="100%" alt="Academia de Baile" />
       </a>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/GVelasquez03/AleskyGym/" title="Gymnasio AleskyGym">
-        <img src="https://raw.githubusercontent.com/GVelasquez03/AleskyGym/Frontend/Frontend%20Rosa/Frontend/Rosa-GestionClases-Frontend/src/app/assets/Aleskyy.png"  width="100%" alt="AleskyGym" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/GVelasquez03/SemiSumador" title="Semi-sumador Binario">
-        <img src="https://raw.githubusercontent.com/GVelasquez03/SemiSumador/main/src/assets/"  width="100%" alt="SemiSumador Binario" />
+    <td align="center" width="33%">
+      <a href="https://github.com/GVelasquez03/Academia-de-Baile/" title="Academia de Baile">
+        <img src="https://raw.githubusercontent.com/GVelasquez03/Academia-de-Baile/main/Academia_Baile/src/assets/Academia.png"  width="100%" alt="Academia de Baile" />
       </a>
     </td>
   </tr>
