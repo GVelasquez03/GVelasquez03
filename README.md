@@ -61,13 +61,13 @@ propósito y visión estratégica. Siempre en busca de proyectos que generen imp
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/GVelasquez03/AleskyGym/" title="Gymnasio AleskyGym">
-        <img src="https://raw.githubusercontent.com/GVelasquez03/AleskyGym/Frontend/Frontend%20Rosa/Frontend/Rosa-GestionClases-Frontend/src/app/assets/Alesky.png" height="100%"  width="100%" alt="AleskyGym" />
+      <a href="https://github.com/GVelasquez03/SemiSumador" title="Semi-sumador Binario">
+        <img src="https://raw.githubusercontent.com/GVelasquez03/SemiSumador/main/src/assets/SumadorBinario.png"  width="100%" alt="SemiSumador Binario" />
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/GVelasquez03/AleskyGym/" title="Gymnasio AleskyGym">
-        <img src="https://raw.githubusercontent.com/GVelasquez03/AleskyGym/Frontend/Frontend%20Rosa/Frontend/Rosa-GestionClases-Frontend/src/app/assets/Aleskyy.png" height="100%"  width="100%" alt="AleskyGym" />
+        <img src="https://raw.githubusercontent.com/GVelasquez03/AleskyGym/Frontend/Frontend%20Rosa/Frontend/Rosa-GestionClases-Frontend/src/app/assets/Aleskyy.png"  width="100%" alt="AleskyGym" />
       </a>
     </td>
   </tr>
