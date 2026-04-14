@@ -24,7 +24,7 @@ propósito y visión estratégica.<br>Siempre en busca de proyectos que generen 
 
 <!--------------->
 <div id="proyectos">
-<h2 >💎Sistema Gestion de Clases Gimnasio</h2>
+<h2 >Sistema Gestion de Clases Gimnasio</h2>
 
 <table>
   <tr>
@@ -49,7 +49,7 @@ propósito y visión estratégica.<br>Siempre en busca de proyectos que generen 
   </div>
 
   <div id="Nuevos Proyectos">
-<h2 >Sistema de control Academia de Baile 📊</h2>
+<h2 >Sistema de control Academia de Baile</h2>
 
 <table>
   <tr>
@@ -72,7 +72,6 @@ propósito y visión estratégica.<br>Siempre en busca de proyectos que generen 
   
 </table>
   </div>
-  https://github.com/GVelasquez03/LibreriaElectronica/tree/main/src/assets
 
 <div id="libreria electronica">
   <h2> libreria electronica Versora </h2>
@@ -86,7 +85,7 @@ propósito y visión estratégica.<br>Siempre en busca de proyectos que generen 
          </td>
            <td align="center" width="33%">
            <a href="https://github.com/GVelasquez03/LibreriaElectronica/" title="Ebook-store">
-            <img src="https://raw.githubusercontent.com/GVelasquez03/LibreriaElectronicamain/src/assets/Home.png"  width="100%" alt="Academia de Baile" />
+            <img src="https://raw.githubusercontent.com/GVelasquez03/LibreriaElectronica/main/src/assets/Home.png"  width="100%" alt="Academia de Baile" />
            </a>
          </td>
            <td align="center" width="33%">
