@@ -72,6 +72,31 @@ propósito y visión estratégica.<br>Siempre en busca de proyectos que generen 
   
 </table>
   </div>
+  https://github.com/GVelasquez03/LibreriaElectronica/tree/main/src/assets
 
-  📫 Contacto: **gilberto123rafael@gmail.com**
+<div id="libreria electronica">
+  <h2> libreria electronica Versora </h2>
+
+  <table>
+      <tr>
+         <td align="center" width="34%">
+           <a href="https://github.com/GVelasquez03/LibreriaElectronica/" title="Ebook-store">
+           <img src="https://raw.githubusercontent.com/GVelasquez03/LibreriaElectronica/tree/main/src/assets/inicio.png"  width="100%" alt="Academia de Baile" />
+           </a>
+         </td>
+           <td align="center" width="33%">
+           <a href="https://github.com/GVelasquez03/LibreriaElectronica/" title="Ebook-store">
+            <img src="https://raw.githubusercontent.com/GVelasquez03/LibreriaElectronica/tree/main/src/assets/Home.png"  width="100%" alt="Academia de Baile" />
+           </a>
+         </td>
+           <td align="center" width="33%">
+           <a href="https://github.com/GVelasquez03/LibreriaElectronica/" title="Ebook-store">
+            <img src="https://raw.githubusercontent.com/GVelasquez03/LibreriaElectronica/tree/main/src/assets/Detalle.png"  width="100%" alt="Academia de Baile" />
+           </a>
+         </td>
+    </tr>
+  </table>
+</div>
+
+📫 Contacto: **gilberto123rafael@gmail.com**
 
