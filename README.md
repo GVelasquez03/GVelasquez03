@@ -81,17 +81,17 @@ propósito y visión estratégica.<br>Siempre en busca de proyectos que generen 
       <tr>
          <td align="center" width="34%">
            <a href="https://github.com/GVelasquez03/LibreriaElectronica/" title="Ebook-store">
-           <img src="https://raw.githubusercontent.com/GVelasquez03/LibreriaElectronica/tree/main/src/assets/inicio.png"  width="100%" alt="Academia de Baile" />
+           <img src="https://raw.githubusercontent.com/GVelasquez03/LibreriaElectronica/main/src/assets/Inicio.png"  width="100%" alt="Academia de Baile" />
            </a>
          </td>
            <td align="center" width="33%">
            <a href="https://github.com/GVelasquez03/LibreriaElectronica/" title="Ebook-store">
-            <img src="https://raw.githubusercontent.com/GVelasquez03/LibreriaElectronica/tree/main/src/assets/Home.png"  width="100%" alt="Academia de Baile" />
+            <img src="https://raw.githubusercontent.com/GVelasquez03/LibreriaElectronicamain/src/assets/Home.png"  width="100%" alt="Academia de Baile" />
            </a>
          </td>
            <td align="center" width="33%">
            <a href="https://github.com/GVelasquez03/LibreriaElectronica/" title="Ebook-store">
-            <img src="https://raw.githubusercontent.com/GVelasquez03/LibreriaElectronica/tree/main/src/assets/Detalle.png"  width="100%" alt="Academia de Baile" />
+            <img src="https://raw.githubusercontent.com/GVelasquez03/LibreriaElectronica/main/src/assets/Detalle.png"  width="100%" alt="Academia de Baile" />
            </a>
          </td>
     </tr>
